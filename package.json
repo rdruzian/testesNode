@@ -14,11 +14,14 @@
   "author": "Renato Druzian",
   "license": "ISC",
   "devDependencies": {
+    "@types/jest": "^27.5.0",
     "@types/module-alias": "^2.0.1",
     "@types/node": "^17.0.31",
     "@typescript-eslint/eslint-plugin": "^5.22.0",
     "@typescript-eslint/parser": "^5.22.0",
     "eslint": "^8.14.0",
+    "jest": "^28.0.3",
+    "ts-jest": "^27.1.4",
     "ts-node-dev": "^1.1.8",
     "typescript": "^4.6.4"
   },
